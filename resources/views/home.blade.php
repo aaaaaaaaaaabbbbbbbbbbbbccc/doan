@@ -4,13 +4,6 @@
 <head>
 
      <title>Zara therapy clinic</title>
-<!--
-
-Template 2098 Health
-
-http://www.tooplate.com/view/2098-health
-
--->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
@@ -49,7 +42,7 @@ http://www.tooplate.com/view/2098-health
                     </div>
                          
                     <div class="col-md-8 col-sm-7 text-align-right">
-                         <span class="phone-icon"><i class="fa fa-phone"></i> 010-060-0160</span>
+                         <span class="phone-icon"><i class="fa fa-phone"></i>037934803</span>
                          <span class="date-icon"><i class="fa fa-calendar-plus-o"></i> 6:00 AM - 10:00 PM (Mon-Fri)</span>
                          <span class="email-icon"><i class="fa fa-envelope-o"></i> <a href="#">info@company.com</a></span>
                     </div>
@@ -142,19 +135,19 @@ http://www.tooplate.com/view/2098-health
                               <h2 class="wow fadeInUp" data-wow-delay="0.6s">Welcome to Your Zara therapy clinic</h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
                                    <p>A Note from Dr. Neil Jackson
-Zarah Medical and Cosmetic Skin Clinic had a late birth….in 2007! I had been in general dermatological practice since 1987. That’s a good 20 years prior! Graduating with a distinction from India’s most famous Medical Institute, The Seth GS Medical College (Mumbai) in 1984 and bagging a second place (all India) in a Diploma Course in Dermatology and Venereology from KEM Hospital (India’s premier teaching hospital in 1986) and having completed a term in General Medicine (1987), I conﬁdently started my practice. My forte was Pediatric Dermatology, but, as the new century unfolded, demands for Anti-ageing devices and Laser Hair Reduction increased exponentially! There was no degree in Aesthetic Dermatology at the time. However, I armed myself with all the knowledge and skills possible – attending academic sessions on relevant procedures like Chemical Peeling, the magic of Botox, the use of different types of Hyaluronic Acid Fillers, everything under the sun – even including constructive ways to get rid of cellulite! Simultaneously, I kept up with general dermatological practice, doing a short stint at St. Johns Hospital, London, attending workshops and CMES on Vitiligo/Psoriasis/Acne/Urticarias etc, so as to keep consistently abreast of old and new emerging therapies! The process of learning in any ﬁeld, especially medicine, never ceases!
+                    Zarah Medical and Cosmetic Skin Clinic had a late birth….in 2007! I had been in general dermatological practice since 1987. That’s a good 20 years prior! Graduating with a distinction from India’s most famous Medical Institute, The Seth GS Medical College (Mumbai) in 1984 and bagging a second place (all India) in a Diploma Course in Dermatology and Venereology from KEM Hospital (India’s premier teaching hospital in 1986) and having completed a term in General Medicine (1987), I conﬁdently started my practice. My forte was Pediatric Dermatology, but, as the new century unfolded, demands for Anti-ageing devices and Laser Hair Reduction increased exponentially! There was no degree in Aesthetic Dermatology at the time. However, I armed myself with all the knowledge and skills possible – attending academic sessions on relevant procedures like Chemical Peeling, the magic of Botox, the use of different types of Hyaluronic Acid Fillers, everything under the sun – even including constructive ways to get rid of cellulite! Simultaneously, I kept up with general dermatological practice, doing a short stint at St. Johns Hospital, London, attending workshops and CMES on Vitiligo/Psoriasis/Acne/Urticarias etc, so as to keep consistently abreast of old and new emerging therapies! The process of learning in any ﬁeld, especially medicine, never ceases!
 
-With learning, the basket of solutions grows too! For example, while I might prescribe a medicated cream to stimulate hair growth in a missing eyebrow, I can also do a micro pigmentation for eyebrow enhancement and achieve instant results! Thank you to ‘The Natural Enhancement Institute’ (London) for teaching me Hairstroke Micro Pigmentation in 2012! Anti-Ageing techniques have evolved in a colossal and variegated way over the years and I have been lucky to have trained both on cadavers and hands-on, in workshops around the world, guided by the WORLD’S BEST in Cosmetic Dermatology and Plastic Surgery! I have also been supremely selective in choosing the ‘right ‘machines. Each is USFDA Approved! Or CE Approved! The most important criterion for selection has been SAFETY, next MINIMAL SIDE EFFECTS and thirdly LITTLE or NO DOWNTIME! Of course the results of treatment have to necessarily be SIGNIFICANT!
+                    With learning, the basket of solutions grows too! For example, while I might prescribe a medicated cream to stimulate hair growth in a missing eyebrow, I can also do a micro pigmentation for eyebrow enhancement and achieve instant results! Thank you to ‘The Natural Enhancement Institute’ (London) for teaching me Hairstroke Micro Pigmentation in 2012! Anti-Ageing techniques have evolved in a colossal and variegated way over the years and I have been lucky to have trained both on cadavers and hands-on, in workshops around the world, guided by the WORLD’S BEST in Cosmetic Dermatology and Plastic Surgery! I have also been supremely selective in choosing the ‘right ‘machines. Each is USFDA Approved! Or CE Approved! The most important criterion for selection has been SAFETY, next MINIMAL SIDE EFFECTS and thirdly LITTLE or NO DOWNTIME! Of course the results of treatment have to necessarily be SIGNIFICANT!
 
-With years of both study and practice, I have developed my own methodologies, offering a solution for almost everything! May it be treatment of male and female pattern baldness, may it be an improvement in texture/tone/brightness of the skin using Chemical peels, Microdermabrasion, Lasers or a No-Needle Mesotherapy with cocktails produced by market leaders like Mesoestetic (Spain)! I have an arsenal of Anti-Ageing methods, tailored to suit every individual’s need…using combination therapies…with Non-Invasive HIFU/Syneron – Candella REFIRME Laser/ Pollagen Tripolar Radiofrequency and INJECTABLES like Botox and Hyaluronic Acid (Juvederm/ Restylane/Belotero).
+                    With years of both study and practice, I have developed my own methodologies, offering a solution for almost everything! May it be treatment of male and female pattern baldness, may it be an improvement in texture/tone/brightness of the skin using Chemical peels, Microdermabrasion, Lasers or a No-Needle Mesotherapy with cocktails produced by market leaders like Mesoestetic (Spain)! I have an arsenal of Anti-Ageing methods, tailored to suit every individual’s need…using combination therapies…with Non-Invasive HIFU/Syneron – Candella REFIRME Laser/ Pollagen Tripolar Radiofrequency and INJECTABLES like Botox and Hyaluronic Acid (Juvederm/ Restylane/Belotero).
 
-Along with all of this, General Dermatology treatments continue! I may simply give a prescription for a viral rash or a stress eczema. I might use radio frequency to remove a skin tag/wart/cyst or repair surgically an enlarged ear hole, pierce a nose here, pierce both ears there! To induce the growth of one’s own collagen…I could do Stem Cell therapy, Platelet Rich Plasma Therapy or PDO threads! Or I may suggest an oral nutraceutical or collagen supplement. I could use Mesolipolytic solutions to get rid of excess fat on the tummy/lovehandles/double chin! Or use the I-Lipo or U-Lipo machines coupled with exercise on a Vibrogym, and additionally smooth down remaining cellulite with Velashape. Or just prescribe pills to effect weight loss or water retention! Just about anything and everything is possible!
+                    Along with all of this, General Dermatology treatments continue! I may simply give a prescription for a viral rash or a stress eczema. I might use radio frequency to remove a skin tag/wart/cyst or repair surgically an enlarged ear hole, pierce a nose here, pierce both ears there! To induce the growth of one’s own collagen…I could do Stem Cell therapy, Platelet Rich Plasma Therapy or PDO threads! Or I may suggest an oral nutraceutical or collagen supplement. I could use Mesolipolytic solutions to get rid of excess fat on the tummy/lovehandles/double chin! Or use the I-Lipo or U-Lipo machines coupled with exercise on a Vibrogym, and additionally smooth down remaining cellulite with Velashape. Or just prescribe pills to effect weight loss or water retention! Just about anything and everything is possible!
 
-Working each day from 10am to 5pm, Monday-Friday and Sunday, is exciting, challenging and a tad exhausting too!
-But to see a happy smile on a satisﬁed patients face is my greatest joy!
-Simply put, my goal is to make a person comfortable, attend to his or her concerns in a way which suits him or her…financially too!
-We have also now internationally partnered with Meditourz International, a premier medical & wellness tourism expert – 
-Welcome All to Zarah! 😊</p>
+                    Working each day from 10am to 5pm, Monday-Friday and Sunday, is exciting, challenging and a tad exhausting too!
+                    But to see a happy smile on a satisﬁed patients face is my greatest joy!
+                    Simply put, my goal is to make a person comfortable, attend to his or her concerns in a way which suits him or her…financially too!
+                    We have also now internationally partnered with Meditourz International, a premier medical & wellness tourism expert – 
+                    Welcome All to Zarah! 😊</p>
                               </div>
                               <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                    <img src="{{asset('home/images/author-image.jpg')}}" class="img-responsive" alt="">
@@ -265,14 +258,15 @@ Welcome All to Zarah! 😊</p>
                     <div class="col-md-4 col-sm-6">
                          <!-- NEWS THUMB -->
                          <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-                              <a href="news-detail.html">
-                                   <img src="{{asset('home/images/news-image1.jpg')}}" class="img-responsive" alt="">
+                              <a href="tech.blade.php">
+                                   <img src="{{asset('home/images/tap-vat-ly-tri-lieu-feature.jpg')}}" class="img-responsive" alt="">
                               </a>
                               <div class="news-info">
                                    <span>March 08, 2022</span>
-                                   <h3><a href="news-detail.html">About Amazing Technology</a></h3>
-                                   <U>Physiotherapy</U>
-                                   <p>This is considered a development of modern medicine in general and physiotherapy in particular. According to the World Health Organization: Rehabilitation includes medical, educational, social, career-oriented measures... These techniques restore and reduce the impact on the risk of disability. Help patients recover from treatment and integrate into social activities.</p>
+                                   <h3><a href="{{route('pages.tech')}}">About Amazing Technology</a></h3>
+                                   <U>WHAT IS LASER THERAPY?</U>
+                                   <p>Laser is an acronym for Light Amplification by Stimulated Emission of Radiation, meaning the amplification of light by forced emission.
+                                   Laser therapy is a treatment that uses concentrated light to act on the exact area of the damage without harming the surrounding areas.</p>
                                    <div class="author">
                                         <img src="{{asset('home/images/author-image.jpg')}}" class="img-responsive" alt="">
                                         <div class="author-info">
@@ -287,16 +281,16 @@ Welcome All to Zarah! 😊</p>
                     <div class="col-md-4 col-sm-6">
                          <!-- NEWS THUMB -->
                          <div class="news-thumb wow fadeInUp" data-wow-delay="0.6s">
-                              <a href="news-detail.html">
-                                   <img src="{{asset('home/images/news-image2.jpg')}}" class="img-responsive" alt="">
+                              <a href="skin.blade.php">
+                                   <img src="{{asset('home/images/1572515175viva-spa-3.jpg')}}" class="img-responsive" alt="">
                               </a>
                               <div class="news-info">
                                    <span>February 2022, </span>
-                                   <h3><a href="news-detail.html">Skin lightening treatments and skin pigmentation</a></h3>
+                                   <h3><a href="{{route('pages.skin')}}">Skin lightening treatments and skin pigmentation</a></h3>
                                    <p>Chemical Peels : These range from the most effective but also the most expensive COSMELAN Peel to the Melases TRX Peel, Milk Peel, Salicylic Peel, the choice of Chemical Peel depending on the type and level of skin pigmentation. The time required for treatments varies according to the Peel chosen which ranges from 15 mins to 45 mins.
                                    The Medlite Laser.</p>
                                    <div class="author">
-                                        <img src="{{asset('home/images/author-image.jpg')}}" class="img-responsive" alt="">
+                                        <img src="{{asset('home/images/giamdoc.jpg')}}" class="img-responsive" alt="">
                                         <div class="author-info">
                                              <h5>Jason Stewart</h5>
                                              <p>General Director</p>
@@ -317,7 +311,7 @@ Welcome All to Zarah! 😊</p>
                                    <h3><a href="news-detail.html">Therapeutic products</a></h3>
                                    <p>These are our products to help you have a beautiful skin and bring comfort to you in a chaotic life, helping a person relieve stress, enhance relaxation, improvecirculate.</p>
                                    <div class="author">
-                                        <img src="{{asset('home/images/author-image.jpg')}}" class="img-responsive" alt="">
+                                        <img src="{{asset('home/images/18.-Nguyễn-Thanh-Phương-scaled.jpg')}}" class="img-responsive" alt="">
                                         <div class="author-info">
                                              <h5>Andrio Abero</h5>
                                              <p>Online Advertising</p>
@@ -426,7 +420,7 @@ Welcome All to Zarah! 😊</p>
                               <h4 class="wow fadeInUp" data-wow-delay="0.4s">Latest News</h4>
                               <div class="latest-stories">
                                    <div class="stories-image">
-                                        <a href="#"><img src="{{asset('home/images/news-image.jpg')}}" class="img-responsive" alt=""></a>
+                                        <a href="#"><img src="{{asset('home/images/bs-võ-triệu-đạt.jpg')}}" class="img-responsive" alt=""></a>
                                    </div>
                                    <div class="stories-info">
                                         <a href="#"><h5>Amazing Technology</h5></a>
@@ -436,7 +430,7 @@ Welcome All to Zarah! 😊</p>
 
                               <div class="latest-stories">
                                    <div class="stories-image">
-                                        <a href="#"><img src="{{asset('home/images/news-image.jpg')}}" class="img-responsive" alt=""></a>
+                                        <a href="#"><img src="{{asset('home/images/bsnguyenthikimthoa.jpg')}}" class="img-responsive" alt=""></a>
                                    </div>
                                    <div class="stories-info">
                                         <a href="#"><h5>Skin lightening treatments</h5></a>
@@ -487,7 +481,6 @@ Welcome All to Zarah! 😊</p>
                </div>
           </div>
      </footer>
-
      <!-- SCRIPTS -->
      <script src="{{asset('home/js/jquery.js')}}"></script>
      <script src="{{asset('home/js/bootstrap.min.js')}}"></script>

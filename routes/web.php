@@ -18,4 +18,6 @@ Route::group(['namespace' => 'App\Http\Controllers'], function()
     Route::get('/', 'PagesController@index')->name('pages.index');
     Route::get('/order', 'PagesController@order')->name('pages.order');
     Route::get('/createuser', 'PagesController@createuser')->name('pages.createuser');
+    Route::get('/tech', 'PagesController@tech')->name('pages.tech');
+    Route::get('/skin', 'PagesController@skin')->name('pages.skin');
 });

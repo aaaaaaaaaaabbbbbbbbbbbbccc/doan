@@ -19,4 +19,12 @@ class PagesController extends Controller
     {
         return view('createuser');
     }
+    public function tech() 
+    {
+        return view('tech');
+    }
+    public function skin() 
+    {
+        return view('skin');
+    }
 }
